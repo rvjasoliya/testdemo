@@ -17,6 +17,7 @@
 		B315033A23E7EBC300DC0AFE /* testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B315033923E7EBC300DC0AFE /* testUITests.swift */; };
 		B315034923E7FF3800DC0AFE /* APIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B315034723E7FF3700DC0AFE /* APIManager.swift */; };
 		B315034A23E7FF3800DC0AFE /* PDExtentions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B315034823E7FF3800DC0AFE /* PDExtentions.swift */; };
+		B3DF06AE23FCF90100CCFF06 /* Global.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DF06AD23FCF90100CCFF06 /* Global.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		B315033B23E7EBC300DC0AFE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B315034723E7FF3700DC0AFE /* APIManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
 		B315034823E7FF3800DC0AFE /* PDExtentions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PDExtentions.swift; sourceTree = "<group>"; };
+		B3DF06AD23FCF90100CCFF06 /* Global.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Global.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,7 +106,6 @@
 			isa = PBXGroup;
 			children = (
 				B315034723E7FF3700DC0AFE /* APIManager.swift */,
-				B315034823E7FF3800DC0AFE /* PDExtentions.swift */,
 				B315031723E7EBC100DC0AFE /* AppDelegate.swift */,
 				B315031923E7EBC100DC0AFE /* SceneDelegate.swift */,
 				B315031B23E7EBC100DC0AFE /* ViewController.swift */,
@@ -112,6 +113,8 @@
 				B315032023E7EBC300DC0AFE /* Assets.xcassets */,
 				B315032223E7EBC300DC0AFE /* LaunchScreen.storyboard */,
 				B315032523E7EBC300DC0AFE /* Info.plist */,
+				B315034823E7FF3800DC0AFE /* PDExtentions.swift */,
+				B3DF06AD23FCF90100CCFF06 /* Global.swift */,
 			);
 			path = test;
 			sourceTree = "<group>";
@@ -267,6 +270,7 @@
 			files = (
 				B315034923E7FF3800DC0AFE /* APIManager.swift in Sources */,
 				B315031C23E7EBC100DC0AFE /* ViewController.swift in Sources */,
+				B3DF06AE23FCF90100CCFF06 /* Global.swift in Sources */,
 				B315031823E7EBC100DC0AFE /* AppDelegate.swift in Sources */,
 				B315031A23E7EBC100DC0AFE /* SceneDelegate.swift in Sources */,
 				B315034A23E7FF3800DC0AFE /* PDExtentions.swift in Sources */,
