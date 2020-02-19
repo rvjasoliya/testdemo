@@ -35,3 +35,18 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 }
 
+/*
+pod 'Alamofire'
+pod 'SVProgressHUD'
+pod 'SwiftyJSON'
+pod 'IQKeyboardManagerSwift' #, '5.0.0'
+#pod 'SDWebImage'
+pod 'PopupDialog'
+pod 'JNKeychain'
+pod 'SKPhotoBrowser'
+pod 'Toast-Swift'
+pod 'SVPullToRefresh'
+pod 'iVersion'
+pod 'TKImageShowing'
+pod 'ChameleonFramework/Swift'
+ */

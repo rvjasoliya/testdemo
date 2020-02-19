@@ -18,6 +18,19 @@
 		B315034923E7FF3800DC0AFE /* APIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B315034723E7FF3700DC0AFE /* APIManager.swift */; };
 		B315034A23E7FF3800DC0AFE /* PDExtentions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B315034823E7FF3800DC0AFE /* PDExtentions.swift */; };
 		B3DF06AE23FCF90100CCFF06 /* Global.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DF06AD23FCF90100CCFF06 /* Global.swift */; };
+		B3DF06C223FCFAFD00CCFF06 /* ExpandableLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DF06B223FCFAFD00CCFF06 /* ExpandableLabel.swift */; };
+		B3DF06C323FCFAFD00CCFF06 /* CameraManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DF06B323FCFAFD00CCFF06 /* CameraManager.swift */; };
+		B3DF06C423FCFAFD00CCFF06 /* CosmosDistrib.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DF06B423FCFAFD00CCFF06 /* CosmosDistrib.swift */; };
+		B3DF06C523FCFAFD00CCFF06 /* FSPageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DF06B623FCFAFD00CCFF06 /* FSPageControl.swift */; };
+		B3DF06C623FCFAFD00CCFF06 /* FSPagerCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DF06B723FCFAFD00CCFF06 /* FSPagerCollectionView.swift */; };
+		B3DF06C723FCFAFD00CCFF06 /* FSPagerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DF06B823FCFAFD00CCFF06 /* FSPagerView.swift */; };
+		B3DF06C823FCFAFD00CCFF06 /* FSPagerViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DF06B923FCFAFD00CCFF06 /* FSPagerViewCell.swift */; };
+		B3DF06C923FCFAFD00CCFF06 /* FSPagerViewLayoutAttributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DF06BA23FCFAFD00CCFF06 /* FSPagerViewLayoutAttributes.swift */; };
+		B3DF06CA23FCFAFD00CCFF06 /* FSPagerViewObjcCompat.m in Sources */ = {isa = PBXBuildFile; fileRef = B3DF06BC23FCFAFD00CCFF06 /* FSPagerViewObjcCompat.m */; };
+		B3DF06CB23FCFAFD00CCFF06 /* FSPageViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DF06BD23FCFAFD00CCFF06 /* FSPageViewLayout.swift */; };
+		B3DF06CC23FCFAFD00CCFF06 /* FSPageViewTransformer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DF06BE23FCFAFD00CCFF06 /* FSPageViewTransformer.swift */; };
+		B3DF06CD23FCFAFD00CCFF06 /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DF06C023FCFAFD00CCFF06 /* GradientView.swift */; };
+		B3DF06CE23FCFAFD00CCFF06 /* PDGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3DF06C123FCFAFD00CCFF06 /* PDGradient.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +68,20 @@
 		B315034723E7FF3700DC0AFE /* APIManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
 		B315034823E7FF3800DC0AFE /* PDExtentions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PDExtentions.swift; sourceTree = "<group>"; };
 		B3DF06AD23FCF90100CCFF06 /* Global.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Global.swift; sourceTree = "<group>"; };
+		B3DF06B223FCFAFD00CCFF06 /* ExpandableLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExpandableLabel.swift; sourceTree = "<group>"; };
+		B3DF06B323FCFAFD00CCFF06 /* CameraManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CameraManager.swift; sourceTree = "<group>"; };
+		B3DF06B423FCFAFD00CCFF06 /* CosmosDistrib.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CosmosDistrib.swift; sourceTree = "<group>"; };
+		B3DF06B623FCFAFD00CCFF06 /* FSPageControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FSPageControl.swift; sourceTree = "<group>"; };
+		B3DF06B723FCFAFD00CCFF06 /* FSPagerCollectionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FSPagerCollectionView.swift; sourceTree = "<group>"; };
+		B3DF06B823FCFAFD00CCFF06 /* FSPagerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FSPagerView.swift; sourceTree = "<group>"; };
+		B3DF06B923FCFAFD00CCFF06 /* FSPagerViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FSPagerViewCell.swift; sourceTree = "<group>"; };
+		B3DF06BA23FCFAFD00CCFF06 /* FSPagerViewLayoutAttributes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FSPagerViewLayoutAttributes.swift; sourceTree = "<group>"; };
+		B3DF06BB23FCFAFD00CCFF06 /* FSPagerViewObjcCompat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FSPagerViewObjcCompat.h; sourceTree = "<group>"; };
+		B3DF06BC23FCFAFD00CCFF06 /* FSPagerViewObjcCompat.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FSPagerViewObjcCompat.m; sourceTree = "<group>"; };
+		B3DF06BD23FCFAFD00CCFF06 /* FSPageViewLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FSPageViewLayout.swift; sourceTree = "<group>"; };
+		B3DF06BE23FCFAFD00CCFF06 /* FSPageViewTransformer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FSPageViewTransformer.swift; sourceTree = "<group>"; };
+		B3DF06C023FCFAFD00CCFF06 /* GradientView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
+		B3DF06C123FCFAFD00CCFF06 /* PDGradient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PDGradient.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,16 +132,14 @@
 		B315031623E7EBC100DC0AFE /* test */ = {
 			isa = PBXGroup;
 			children = (
-				B315034723E7FF3700DC0AFE /* APIManager.swift */,
 				B315031723E7EBC100DC0AFE /* AppDelegate.swift */,
 				B315031923E7EBC100DC0AFE /* SceneDelegate.swift */,
-				B315031B23E7EBC100DC0AFE /* ViewController.swift */,
 				B315031D23E7EBC100DC0AFE /* Main.storyboard */,
-				B315032023E7EBC300DC0AFE /* Assets.xcassets */,
 				B315032223E7EBC300DC0AFE /* LaunchScreen.storyboard */,
+				B3DF06B023FCFA9900CCFF06 /* Main */,
+				B3DF06AF23FCFA8F00CCFF06 /* Other */,
+				B3DF06B123FCFAD200CCFF06 /* Libraries */,
 				B315032523E7EBC300DC0AFE /* Info.plist */,
-				B315034823E7FF3800DC0AFE /* PDExtentions.swift */,
-				B3DF06AD23FCF90100CCFF06 /* Global.swift */,
 			);
 			path = test;
 			sourceTree = "<group>";
@@ -135,6 +160,62 @@
 				B315033B23E7EBC300DC0AFE /* Info.plist */,
 			);
 			path = testUITests;
+			sourceTree = "<group>";
+		};
+		B3DF06AF23FCFA8F00CCFF06 /* Other */ = {
+			isa = PBXGroup;
+			children = (
+				B315032023E7EBC300DC0AFE /* Assets.xcassets */,
+				B315034823E7FF3800DC0AFE /* PDExtentions.swift */,
+				B3DF06AD23FCF90100CCFF06 /* Global.swift */,
+				B315034723E7FF3700DC0AFE /* APIManager.swift */,
+			);
+			path = Other;
+			sourceTree = "<group>";
+		};
+		B3DF06B023FCFA9900CCFF06 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				B315031B23E7EBC100DC0AFE /* ViewController.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		B3DF06B123FCFAD200CCFF06 /* Libraries */ = {
+			isa = PBXGroup;
+			children = (
+				B3DF06B323FCFAFD00CCFF06 /* CameraManager.swift */,
+				B3DF06B423FCFAFD00CCFF06 /* CosmosDistrib.swift */,
+				B3DF06B223FCFAFD00CCFF06 /* ExpandableLabel.swift */,
+				B3DF06B523FCFAFD00CCFF06 /* FSPagerView */,
+				B3DF06BF23FCFAFD00CCFF06 /* GradientAnimator */,
+			);
+			path = Libraries;
+			sourceTree = "<group>";
+		};
+		B3DF06B523FCFAFD00CCFF06 /* FSPagerView */ = {
+			isa = PBXGroup;
+			children = (
+				B3DF06B623FCFAFD00CCFF06 /* FSPageControl.swift */,
+				B3DF06B723FCFAFD00CCFF06 /* FSPagerCollectionView.swift */,
+				B3DF06B823FCFAFD00CCFF06 /* FSPagerView.swift */,
+				B3DF06B923FCFAFD00CCFF06 /* FSPagerViewCell.swift */,
+				B3DF06BA23FCFAFD00CCFF06 /* FSPagerViewLayoutAttributes.swift */,
+				B3DF06BB23FCFAFD00CCFF06 /* FSPagerViewObjcCompat.h */,
+				B3DF06BC23FCFAFD00CCFF06 /* FSPagerViewObjcCompat.m */,
+				B3DF06BD23FCFAFD00CCFF06 /* FSPageViewLayout.swift */,
+				B3DF06BE23FCFAFD00CCFF06 /* FSPageViewTransformer.swift */,
+			);
+			path = FSPagerView;
+			sourceTree = "<group>";
+		};
+		B3DF06BF23FCFAFD00CCFF06 /* GradientAnimator */ = {
+			isa = PBXGroup;
+			children = (
+				B3DF06C023FCFAFD00CCFF06 /* GradientView.swift */,
+				B3DF06C123FCFAFD00CCFF06 /* PDGradient.swift */,
+			);
+			path = GradientAnimator;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -268,12 +349,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3DF06CB23FCFAFD00CCFF06 /* FSPageViewLayout.swift in Sources */,
+				B3DF06C923FCFAFD00CCFF06 /* FSPagerViewLayoutAttributes.swift in Sources */,
+				B3DF06C223FCFAFD00CCFF06 /* ExpandableLabel.swift in Sources */,
 				B315034923E7FF3800DC0AFE /* APIManager.swift in Sources */,
+				B3DF06C323FCFAFD00CCFF06 /* CameraManager.swift in Sources */,
+				B3DF06C523FCFAFD00CCFF06 /* FSPageControl.swift in Sources */,
 				B315031C23E7EBC100DC0AFE /* ViewController.swift in Sources */,
 				B3DF06AE23FCF90100CCFF06 /* Global.swift in Sources */,
+				B3DF06CD23FCFAFD00CCFF06 /* GradientView.swift in Sources */,
+				B3DF06C423FCFAFD00CCFF06 /* CosmosDistrib.swift in Sources */,
 				B315031823E7EBC100DC0AFE /* AppDelegate.swift in Sources */,
+				B3DF06C623FCFAFD00CCFF06 /* FSPagerCollectionView.swift in Sources */,
 				B315031A23E7EBC100DC0AFE /* SceneDelegate.swift in Sources */,
+				B3DF06CA23FCFAFD00CCFF06 /* FSPagerViewObjcCompat.m in Sources */,
+				B3DF06CE23FCFAFD00CCFF06 /* PDGradient.swift in Sources */,
 				B315034A23E7FF3800DC0AFE /* PDExtentions.swift in Sources */,
+				B3DF06C723FCFAFD00CCFF06 /* FSPagerView.swift in Sources */,
+				B3DF06CC23FCFAFD00CCFF06 /* FSPageViewTransformer.swift in Sources */,
+				B3DF06C823FCFAFD00CCFF06 /* FSPagerViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
